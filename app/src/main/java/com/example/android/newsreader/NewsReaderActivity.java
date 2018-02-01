@@ -83,8 +83,11 @@ public class NewsReaderActivity extends FragmentActivity
 
         // Determine whether we are in single-pane or dual-pane mode by testing the visibility
         // of the article view.
+        /*
+        * 关键代码，屏幕尺寸不同，会加载不同layout，再根据布局中的某个view是否可见，确定是不是双屏幕
+        * */
         View articleView = findViewById(R.id.article);
-        mIsDualPane = articleView != null && articleView.getVisibility() == View.VISIBLE;
+        mIsDualPane = articleView != null && articleView.getVisibility() == View.VISIBLE;//是否是双屏幕
 
         // Register ourselves as the listener for the headlines fragment events.
         mHeadlinesFragment.setOnHeadlineSelectedListener(this);
