@@ -1,0 +1,4 @@
+#Thu Feb 01 13:33:41 CST 2018
+base.0=D\:\\gitproject\\newsreader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-v11\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "778,712",
+                        "endColumns": "43,65",
+                        "endOffsets": "817,773"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,65",
+                        "endOffsets": "94,160"
+                    }
+                },
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-v11\\style.xml",
+                    "from": {
+                        "startLines": "22,17,27,32",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "874,680,1140,1385",
+                        "endLines": "26,21,30,33",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "1139,873,1383,1482"
+                    },
+                    "to": {
+                        "startLines": "4,9,14,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "165,435,633,881",
+                        "endLines": "8,13,17,19",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "430,628,876,978"
+                    }
+                }
+            ]
+        }
+    ]
+}

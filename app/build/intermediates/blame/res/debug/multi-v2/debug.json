@@ -1,0 +1,191 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-land-v13_values-sw600dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-sw600dp-land\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "779,712",
+                        "endColumns": "42,66",
+                        "endOffsets": "817,774"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,66",
+                        "endOffsets": "93,160"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "751,684",
+                        "endColumns": "47,66",
+                        "endOffsets": "794,746"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "174,222",
+                        "endColumns": "47,66",
+                        "endOffsets": "217,284"
+                    }
+                },
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "787,712",
+                        "endColumns": "43,74",
+                        "endOffsets": "826,782"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,74",
+                        "endOffsets": "94,169"
+                    }
+                },
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values\\style.xml",
+                    "from": {
+                        "startLines": "23,17,20",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "854,680,761",
+                        "endLines": "25,18,21",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "985,759,852"
+                    },
+                    "to": {
+                        "startLines": "6,9,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "289,425,509",
+                        "endLines": "8,10,12",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "420,504,600"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-v11\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "778,712",
+                        "endColumns": "43,65",
+                        "endOffsets": "817,773"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,65",
+                        "endOffsets": "94,160"
+                    }
+                },
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-v11\\style.xml",
+                    "from": {
+                        "startLines": "22,17,27,32",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "874,680,1140,1385",
+                        "endLines": "26,21,30,33",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "1139,873,1383,1482"
+                    },
+                    "to": {
+                        "startLines": "4,9,14,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "165,435,633,881",
+                        "endLines": "8,13,17,19",
+                        "endColumns": "8,8,8,8",
+                        "endOffsets": "430,628,876,978"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-port-v13_values-sw600dp-port-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-sw600dp-port\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "778,712",
+                        "endColumns": "43,65",
+                        "endOffsets": "817,773"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,65",
+                        "endOffsets": "94,160"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-port-v4_values-xlarge-port-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-xlarge-port\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "786,712",
+                        "endColumns": "42,73",
+                        "endOffsets": "824,781"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,73",
+                        "endOffsets": "93,167"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-land-v4_values-xlarge-land-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-xlarge-land\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "779,712",
+                        "endColumns": "42,66",
+                        "endOffsets": "817,774"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,66",
+                        "endOffsets": "93,160"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-xlarge-port\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "786,712",
+                        "endColumns": "42,73",
+                        "endOffsets": "824,781"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,73",
+                        "endOffsets": "93,167"
+                    }
+                }
+            ]
+        }
+    ]
+}

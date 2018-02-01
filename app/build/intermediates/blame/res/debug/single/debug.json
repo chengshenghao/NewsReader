@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_bg_normal.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_bg_selected.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-xhdpi\\tab_bg_selected.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_bg_normal.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-mdpi\\tab_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_normal.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-mdpi\\button_normal.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout_twopanes_narrow.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\layout\\twopanes_narrow.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout_headline_item.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\layout\\headline_item.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_bg_normal.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-xhdpi\\tab_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_bg_normal.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-ldpi\\tab_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_normal.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-xhdpi\\button_normal.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_bg.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_pressed.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout_onepane.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\layout\\onepane.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_pressed.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-xhdpi\\button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout_onepane_with_bar.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\layout\\onepane_with_bar.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout_twopanes.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\layout\\twopanes.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_bg_selected.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-mdpi\\tab_bg_selected.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_pressed.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-mdpi\\button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_pressed.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-ldpi\\button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_bg_selected.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\tab_bg_selected.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_bg_selected.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-ldpi\\tab_bg_selected.9.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_list_item.xml.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\layout\\actionbar_list_item.xml"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_normal.9.png.flat",
+        "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\drawable-hdpi\\button_normal.9.png"
+    }
+]

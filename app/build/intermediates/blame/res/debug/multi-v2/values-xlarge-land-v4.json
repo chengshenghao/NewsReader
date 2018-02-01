@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\gitproject\\newsreader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\gitproject\\newsreader\\app\\src\\main\\res\\values-xlarge-land\\layouts.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "779,712",
+                        "endColumns": "42,66",
+                        "endOffsets": "817,774"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,66",
+                        "endOffsets": "93,160"
+                    }
+                }
+            ]
+        }
+    ]
+}
